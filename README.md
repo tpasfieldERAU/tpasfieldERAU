@@ -1,14 +1,11 @@
 ### Hi there 👋
-Here you'll find code for my random projects, largely related to math computing and display! You'll also find some code for my work as the software lead for ERAU's SUAS competition team. Feel free to use my code for your own exploration, and please attribute me if you use any in a more signficant project.
+Here you'll find code for my random projects, largely related to math computing and display! Feel free to use my code for your own exploration, and please attribute me if you use any in a more signficant project.
 
 
 - 🔭 I’m currently working on: 
-  - Developing a graphing calculator engine from the bare basics!
+  - Previous entry removed, awaiting new update.
 - 🌱 I’m currently learning: 
-  - Grammar and Language Analysis for a Recursive Descent Parser!    
-  - Lambda Calculus    
-  - Category Theory
-  - Graph Theory    
+  - Previous entries removed, awaiting new update.  
 - ⚡ Fun fact:
   - I occasionally speedsolve Rubik's cubes! You might see some related repos here in the future for that!
       
