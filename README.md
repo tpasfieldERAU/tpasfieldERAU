@@ -3,9 +3,9 @@ Here you'll find code for my random projects, largely related to math computing 
 
 
 - 🔭 I’m currently working on: 
-  - Previous entry removed, awaiting new update.
+  - CT Simulation of 3D-prints for Deep Learning Segmentation Training (Research Capstone)
 - 🌱 I’m currently learning: 
-  - Previous entries removed, awaiting new update.  
+  - GStreamer pipelines, applied signal processing, and catching up on SOTA computer vision.
 - ⚡ Fun fact:
   - I occasionally speedsolve Rubik's cubes! You might see some related repos here in the future for that!
       
